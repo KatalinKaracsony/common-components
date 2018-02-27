@@ -1,0 +1,1 @@
+﻿A header for a full screen article.
